@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939630450561",
+    "project_id": "gumby-project-ddd92",
+    "storage_bucket": "gumby-project-ddd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939630450561:android:7f1cfe9ffe78751bbd3a80",
+        "android_client_info": {
+          "package_name": "com.Gumby.myapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939630450561-gcg23176bsa7d74tp5qdauplsavro78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnICNg4D36rGevpqNPnutUgOjFhRbq05c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939630450561-gcg23176bsa7d74tp5qdauplsavro78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
