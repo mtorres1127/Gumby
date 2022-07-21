@@ -2,20 +2,18 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
   home: Scaffold(
-    appBar: AppBar(
-      title: Text('PETRA'),
-      centerTitle: true,
-      backgroundColor: Colors.lightGreen[200],
+    body: Column(
+      children: [
+        Image.asset(
+            "assets/scott-osborn-unsplash.jpg",
+          width: double.infinity,
+          fit: BoxFit.fitHeight,
+        ),
+         Text('Hello Climbers'),
+      ]
     ),
-    body: Center(
-      child: Text('Hello Climbers'),
 
-    ),
-    floatingActionButton: FloatingActionButton(
-      onPressed: null,
-      child: Text('Click'),
-      backgroundColor: Colors.lightGreen[200],
-
-    ),
   ),
 ));
+
+
